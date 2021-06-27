@@ -168,7 +168,7 @@ let view (model:Model) dispatch =
                     Container.Modifiers [ Modifier.TextAlignment (Screen.All, TextAlignment.Centered) ]
                 ] [
                     Heading.h1 [ ] [
-                        str "UK Location Data Mashup"
+                        str "UK Location Data Mashup 64J0"
                     ]
                 ]
             ]
